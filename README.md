@@ -1,5 +1,7 @@
 # Savvy CSS Garnishes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/savvy-css/garnishes.svg)](https://greenkeeper.io/)
+
 The full collection of Savvy CSS garnish packages.
 
 Read more about [Savvy CSS's design principles](https://github.com/savvy-css/savvy/doc).
