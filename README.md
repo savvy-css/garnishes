@@ -19,10 +19,10 @@ This collection offers a convenient way to install all of the Savvy CSS garnishe
 
 - [@savvy-css/border-garnishes](https://github.com/savvy-css/border-garnishes/) _\*In Progress_
 - [@savvy-css/border-radius-garnishes](https://github.com/savvy-css/border-radius-garnishes/) _\*In Progress_
-- [@savvy-css/box-shadow-garnishes](https://github.com/savvy-css/box-shadow-garnishes/) _\*In Progress_
+- [@savvy-css/box-shadow-garnishes](https://github.com/savvy-css/box-shadow-garnishes/)
 - [@savvy-css/color-garnishes](https://github.com/savvy-css/color-garnishes/) _\*In Progress_
-- [@savvy-css/reset-garnishes](https://github.com/savvy-css/reset-garnishes/) _\*In Progress_
-- [@savvy-css/typography-garnishes](https://github.com/savvy-css/typography-garnishes/) _\*In Progress_
+- [@savvy-css/reset-garnishes](https://github.com/savvy-css/reset-garnishes/)
+- [@savvy-css/typography-garnishes](https://github.com/savvy-css/typography-garnishes/)
 
 ## Usage
 

@@ -2,6 +2,18 @@
 # yarn lockfile v1
 
 
+"@savvy-css/box-shadow-garnishes@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/box-shadow-garnishes/-/box-shadow-garnishes-0.0.1.tgz#f510c06f2b32301fc9e7e64c990659cafa458783"
+
+"@savvy-css/reset-garnishes@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/reset-garnishes/-/reset-garnishes-0.0.1.tgz#0b9fc3b5371471dec24a49b1ece699da5a96569f"
+
+"@savvy-css/typography-garnishes@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/typography-garnishes/-/typography-garnishes-0.0.1.tgz#944e35faa235d9b958f68b814dbf559880234837"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
