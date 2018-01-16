@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/garnishes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A collection of garnish-class packages for Savvy CSS",
   "main": "build/garnishes.css",
   "style": "build/garnishes.css",
