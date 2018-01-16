@@ -10,9 +10,9 @@
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@savvy-css/reset-garnishes/-/reset-garnishes-0.0.1.tgz#0b9fc3b5371471dec24a49b1ece699da5a96569f"
 
-"@savvy-css/typography-garnishes@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@savvy-css/typography-garnishes/-/typography-garnishes-0.0.1.tgz#944e35faa235d9b958f68b814dbf559880234837"
+"@savvy-css/typography-garnishes@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/typography-garnishes/-/typography-garnishes-0.1.1.tgz#a3deb3ed0b1bbf7589b798f4d5a0221395157134"
 
 abbrev@1:
   version "1.1.0"

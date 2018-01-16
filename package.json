@@ -30,7 +30,7 @@
   "devDependencies": {
     "@savvy-css/box-shadow-garnishes": "^0.0.1",
     "@savvy-css/reset-garnishes": "^0.0.1",
-    "@savvy-css/typography-garnishes": "^0.0.1",
+    "@savvy-css/typography-garnishes": "^0.1.1",
     "cssnano": "^3.10.0",
     "del-cli": "^1.0.0",
     "np": "^2.15.0",
